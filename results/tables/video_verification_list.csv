@@ -1,0 +1,77 @@
+ID,tier,priority,cluster_source,cheated_label,notes
+30,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+198,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+206,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+223,tier_1_high_risk,1,T2_pre_10s_pooled_c1,1,"cheater in high-risk cluster (rate=83%, p=0.091)"
+224,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+229,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+235,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+237,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+251,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+284,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+308,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+309,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+310,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+321,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+355,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+361,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+373,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+378,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+380,tier_1_high_risk,1,T2_pre_10s_pooled_c1,1,"cheater in high-risk cluster (rate=83%, p=0.091)"
+388,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+401,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+402,tier_1_high_risk,1,T2_pre_10s_pooled_c1,1,"cheater in high-risk cluster (rate=83%, p=0.091)"
+403,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+411,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+413,tier_1_high_risk,1,T2_post_2s_pooled_c0,1,"cheater in high-risk cluster (rate=85%, p=0.017)"
+421,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+427,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+431,tier_1_high_risk,1,T3_post_5s_pooled_c0,1,"cheater in high-risk cluster (rate=73%, p=0.100)"
+432,tier_1_high_risk,1,T2_pre_10s_pooled_c1,1,"cheater in high-risk cluster (rate=83%, p=0.091)"
+442,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+445,tier_1_high_risk,1,T2_pre_10s_pooled_c1,1,"cheater in high-risk cluster (rate=83%, p=0.091)"
+471,tier_1_high_risk,1,T4_pre_2s_pooled_c2,1,"cheater in high-risk cluster (rate=83%, p=0.004)"
+8,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c0,1,small cluster n=8
+103,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c1,1,small cluster n=8
+110,tier_2_cheater_subtype,2,T1_pre_10s_cheaters_c0,1,small cluster n=5
+112,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c3,1,small cluster n=8
+158,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c3,1,small cluster n=8
+160,tier_2_cheater_subtype,2,T4_post_10s_cheaters_c1,1,small cluster n=5
+189,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c1,1,small cluster n=8
+210,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c1,1,small cluster n=8
+230,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c0,1,small cluster n=8
+232,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c1,1,small cluster n=8
+234,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c1,1,small cluster n=8
+248,tier_2_cheater_subtype,2,T3_post_2s_cheaters_c2,1,small cluster n=9
+256,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c2,1,small cluster n=9
+259,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c3,1,small cluster n=8
+273,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c2,1,small cluster n=9
+323,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c2,1,small cluster n=9
+329,tier_2_cheater_subtype,2,T3_post_2s_cheaters_c1,1,small cluster n=9
+334,tier_2_cheater_subtype,2,T5_alone_10s_cheaters_c0,1,latency_median=20.5s; small cluster n=5
+348,tier_2_cheater_subtype,2,T2_pre_5s_cheaters_c2,1,small cluster n=9
+350,tier_2_cheater_subtype,2,T2_pre_5s_cheaters_c2,1,small cluster n=9
+357,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c0,1,small cluster n=8
+362,tier_2_cheater_subtype,2,T1_pre_10s_cheaters_c0,1,small cluster n=5
+381,tier_2_cheater_subtype,2,T1_post_10s_cheaters_c1,1,small cluster n=9
+415,tier_2_cheater_subtype,2,T3_post_5s_cheaters_c4,1,small cluster n=7
+416,tier_2_cheater_subtype,2,T3_post_2s_cheaters_c1,1,small cluster n=9
+440,tier_2_cheater_subtype,2,T3_post_2s_cheaters_c2,1,small cluster n=9
+469,tier_2_cheater_subtype,2,T3_post_2s_cheaters_c0,1,small cluster n=7
+39,tier_3_false_negative_candidate,3,T2_pre_10s_pooled_c1,0,"non-cheater in high-risk cluster (rate=83%, p=0.091)"
+76,tier_3_false_negative_candidate,3,T4_pre_2s_pooled_c2,0,"non-cheater in high-risk cluster (rate=83%, p=0.004)"
+93,tier_3_false_negative_candidate,3,T3_post_5s_pooled_c0,0,"non-cheater in high-risk cluster (rate=73%, p=0.100)"
+190,tier_3_false_negative_candidate,3,T3_post_5s_pooled_c0,0,"non-cheater in high-risk cluster (rate=73%, p=0.100)"
+212,tier_3_false_negative_candidate,3,T2_post_2s_pooled_c0,0,"non-cheater in high-risk cluster (rate=85%, p=0.017)"
+275,tier_3_false_negative_candidate,3,T2_post_2s_pooled_c0,0,"non-cheater in high-risk cluster (rate=85%, p=0.017)"
+313,tier_3_false_negative_candidate,3,T4_pre_2s_pooled_c2,0,"non-cheater in high-risk cluster (rate=83%, p=0.004)"
+377,tier_3_false_negative_candidate,3,T3_post_5s_pooled_c0,0,"non-cheater in high-risk cluster (rate=73%, p=0.100)"
+405,tier_3_false_negative_candidate,3,T3_post_5s_pooled_c0,0,"non-cheater in high-risk cluster (rate=73%, p=0.100)"
+408,tier_3_false_negative_candidate,3,T4_pre_2s_pooled_c2,0,"non-cheater in high-risk cluster (rate=83%, p=0.004)"
+61,tier_4_contrast_control,4,T5_Epost_10s_pooled_c2,0,random low-rate cluster control (rate=29%)
+96,tier_4_contrast_control,4,T5_Epre_10s_pooled_c1,0,random low-rate cluster control (rate=22%)
+150,tier_4_contrast_control,4,T5_Epost_10s_pooled_c2,0,random low-rate cluster control (rate=29%)
+288,tier_4_contrast_control,4,T4_pre_2s_pooled_c4,0,random low-rate cluster control (rate=0%)
+322,tier_4_contrast_control,4,T5_Epost_10s_pooled_c2,0,random low-rate cluster control (rate=29%)
+340,tier_4_contrast_control,4,T3_post_5s_pooled_c3,0,random low-rate cluster control (rate=29%)
+384,tier_4_contrast_control,4,T1_pre_2s_pooled_c2,0,random low-rate cluster control (rate=29%)

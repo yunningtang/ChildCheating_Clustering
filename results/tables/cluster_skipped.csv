@@ -1,0 +1,13 @@
+mode,phase,window_s,n,reason
+pooled,T3_post,10,26,n<30
+cheaters_only,T2_post,10,21,n<30
+cheaters_only,T3_post,10,16,n<30
+cheaters_only,T5_Epost,10,20,n<30
+noncheaters_only,T2_post,10,12,n<30
+noncheaters_only,T3_post,10,10,n<30
+noncheaters_only,T5_postcheating,2,0,n<30
+noncheaters_only,T5_postcheating,5,0,n<30
+noncheaters_only,T5_postcheating,10,0,n<30
+noncheaters_only,T5_precheating,2,0,n<30
+noncheaters_only,T5_precheating,5,0,n<30
+noncheaters_only,T5_precheating,10,0,n<30

@@ -1,0 +1,4 @@
+window_s,n_total_cheaters,n_covered,coverage_rate,n_contaminated
+2,59,57,0.966,2
+5,59,50,0.847,9
+10,59,39,0.661,20

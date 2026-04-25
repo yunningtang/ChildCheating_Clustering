@@ -1,0 +1,33 @@
+# raw data (not committed)
+output*.csv
+mediapipe_segmentsoutput/
+__mediapipe_segmentsoutput/
+*.pdf
+*.docx
+data/raw/
+*.csv.bak
+
+# regenerable from scripts
+data/processed/
+
+# env / cache
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# stale outputs from prior layout (now replaced by results/)
+outputs/
+
+# local-only working notes
+CLAUDE.md
+
+# figures: commit all (small, useful for review)
