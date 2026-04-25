@@ -1,6 +1,6 @@
 # ChildCheating_Clustering
 
-Re-run of the child-cheating facial micro-expression analysis (Kang Lee Lab, DSI phase). Pipeline: cheating-latency check, temporal slope features for 52 MediaPipe blendshapes across 13 phases × 2/5/10s windows, three-mode UMAP+HDBSCAN clustering, tiered video-verification list.
+Re-run of the child-cheating facial micro-expression analysis ). Pipeline: cheating-latency check, temporal slope features for 52 MediaPipe blendshapes across 13 phases × 2/5/10s windows, three-mode UMAP+HDBSCAN clustering, tiered video-verification list.
 
 The previous laptop crash wiped the original code. This repo is the rebuild from scratch.
 
@@ -120,9 +120,4 @@ The processed CSVs and the bulk of the UMAP PNGs are gitignored (regenerable fro
 
 ---
 
-## Limitations / next steps
 
-- **Statistical testing** (cheater vs non-cheater per blendshape, paired pre/post-cheat): Script 02 not yet written
-- **Predictive modeling** (5-fold CV with regularized LR / RF): Script 04 not yet written
-- T5_precheating Mode A is informative only on the cheater half (the phase has no non-cheaters by definition)
-- Slope-only feature space; combining `mean + slope` may sharpen the high-risk clusters in some phases
